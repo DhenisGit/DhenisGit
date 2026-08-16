@@ -1,44 +1,46 @@
-<svg viewBox="140 0 1000 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="El modelo propone. El código decide. Lima, Perú.">
-  <desc>Pie con el mismo lenguaje visual que la cabecera: rejilla tenue, resplandor que respira y puntos que parpadean lentamente.</desc>
+<svg viewBox="140 0 1000 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gracias por llegar hasta aquí. Escríbeme si algo de esto te sirve.">
+  <desc>Pie animado: una señal recorre la línea de izquierda a derecha, como el pulso de un sistema en marcha.</desc>
 
   <defs>
     <pattern id="fGrid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#58A6FF" stroke-opacity="0.08" stroke-width="1"/>
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#58A6FF" stroke-opacity="0.07" stroke-width="1"/>
     </pattern>
-    <radialGradient id="fGlow" cx="50%" cy="100%" r="70%">
-      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0.35"/>
+    <radialGradient id="fGlow" cx="50%" cy="115%" r="65%">
+      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0.30"/>
       <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="fRule" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="fPulse" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#58A6FF" stop-opacity="0.8"/>
+      <stop offset="45%" stop-color="#58A6FF" stop-opacity="0.95"/>
+      <stop offset="55%" stop-color="#9A63FF" stop-opacity="0.95"/>
       <stop offset="100%" stop-color="#9A63FF" stop-opacity="0"/>
     </linearGradient>
-    <clipPath id="fFrame"><rect x="140" y="0" width="1000" height="150" rx="10"/></clipPath>
+    <clipPath id="fFrame"><rect x="140" y="0" width="1000" height="130" rx="10"/></clipPath>
   </defs>
 
   <g clip-path="url(#fFrame)">
-    <rect x="140" y="0" width="1000" height="150" fill="#0D1117"/>
-    <rect x="140" y="0" width="1000" height="150" fill="url(#fGrid)"/>
-
-    <ellipse cx="640" cy="150" rx="420" ry="120" fill="url(#fGlow)">
-      <animate attributeName="rx" values="420;480;420" dur="12s" repeatCount="indefinite"/>
+    <rect x="140" y="0" width="1000" height="130" fill="#0D1117"/>
+    <rect x="140" y="0" width="1000" height="130" fill="url(#fGrid)"/>
+    <ellipse cx="640" cy="130" rx="430" ry="105" fill="url(#fGlow)">
+      <animate attributeName="rx" values="430;490;430" dur="13s" repeatCount="indefinite"/>
     </ellipse>
 
-    <rect x="440" y="0" width="400" height="2" fill="url(#fRule)"/>
+    <!-- linea con una senal que la recorre -->
+    <rect x="240" y="40" width="800" height="1" fill="#21262D"/>
+    <rect x="240" y="38.5" width="150" height="4" rx="2" fill="url(#fPulse)">
+      <animate attributeName="x" values="180;890;180" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" keyTimes="0;0.5;1"/>
+    </rect>
+
+    <text x="640" y="82" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" fill="#C9D1D9">Gracias por llegar hasta aquí.</text>
+    <text x="640" y="110" text-anchor="middle" font-family="Consolas, ui-monospace, monospace" font-size="13" letter-spacing="3" fill="#6E7681">SI ALGO DE ESTO TE SIRVE, ESCR&#205;BEME</text>
 
     <g fill="#58A6FF">
-      <circle cx="330" cy="46" r="1.8" opacity="0.30"><animate attributeName="opacity" values="0.30;0.10;0.30" dur="4.4s" repeatCount="indefinite"/></circle>
-      <circle cx="452" cy="104" r="1.5" opacity="0.22"/>
-      <circle cx="880" cy="52" r="2.2" opacity="0.28"><animate attributeName="opacity" values="0.28;0.09;0.28" dur="5.7s" repeatCount="indefinite"/></circle>
-      <circle cx="1002" cy="112" r="1.6" opacity="0.20"><animate attributeName="opacity" values="0.20;0.08;0.20" dur="3.9s" repeatCount="indefinite"/></circle>
+      <circle cx="300" cy="96" r="1.8" opacity="0.26"><animate attributeName="opacity" values="0.26;0.08;0.26" dur="4.6s" repeatCount="indefinite"/></circle>
+      <circle cx="980" cy="70" r="2" opacity="0.24"><animate attributeName="opacity" values="0.24;0.08;0.24" dur="6.1s" repeatCount="indefinite"/></circle>
     </g>
     <g fill="#9A63FF">
-      <circle cx="742" cy="34" r="1.6" opacity="0.24"><animate attributeName="opacity" values="0.24;0.09;0.24" dur="6.2s" repeatCount="indefinite"/></circle>
-      <circle cx="560" cy="120" r="2" opacity="0.20"/>
+      <circle cx="1040" cy="104" r="1.6" opacity="0.22"><animate attributeName="opacity" values="0.22;0.07;0.22" dur="5.3s" repeatCount="indefinite"/></circle>
+      <circle cx="252" cy="66" r="1.7" opacity="0.20"/>
     </g>
-
-    <text x="640" y="72" text-anchor="middle" font-family="Segoe UI Semibold, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="24" font-weight="600" fill="#E8EEF5">El modelo propone.<tspan fill="#58A6FF" dx="10">El código decide.</tspan></text>
-    <text x="640" y="108" text-anchor="middle" font-family="Consolas, ui-monospace, monospace" font-size="13" letter-spacing="4" fill="#6E7681">LIMA, PER&#218;&#160;&#160;·&#160;&#160;DISPONIBLE PARA CONVERSAR</text>
   </g>
 </svg>
