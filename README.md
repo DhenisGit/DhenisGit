@@ -4,13 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=58A6FF&center=true&vCenter=true&width=820&height=40&lines=Backend+e+integraciones+en+producci%C3%B3n;Java+%C2%B7+Spring+Boot+%C2%B7+Kotlin+%C2%B7+Angular+%C2%B7+React;WhatsApp+Cloud+API+%C2%B7+Meta+Graph+API+%C2%B7+Gemini;El+modelo+propone.+El+c%C3%B3digo+decide." alt="Backend e integraciones en producción. Java, Spring Boot, Kotlin, Angular, React. WhatsApp Cloud API, Meta Graph API, Gemini. El modelo propone, el código decide."/>
 
-<p>
-  <a href="https://www.linkedin.com/in/dhenis-jhoset-aguado-garcia-667b0529b" title="LinkedIn"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:dhenisaguado@gmail.com" title="dhenisaguado@gmail.com"><img height="40" src="./assets/ic-gmail.svg" alt="Correo"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/51994730022" title="+51 994 730 022"><img height="36" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp"/></a>
-</p>
 
 </div>
 
@@ -105,4 +98,15 @@ ERP industrial. App Android nativa escrita íntegramente en Java con MVVM, usada
 
 </div>
 
-<img src="./assets/footer.svg" width="100%" alt="Gracias por llegar hasta aquí. Si algo de esto te sirve, escríbeme."/>
+<img src="./assets/footer.svg" width="100%" alt="Gracias por llegar hasta aquí. Escríbeme por donde prefieras."/>
+
+<table align="center">
+<tr>
+<td align="center"><a href="https://www.linkedin.com/in/dhenis-jhoset-aguado-garcia-667b0529b"><img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt=""/></a></td>
+<td><a href="https://www.linkedin.com/in/dhenis-jhoset-aguado-garcia-667b0529b">dhenis-jhoset-aguado-garcia</a></td>
+<td align="center"><a href="mailto:dhenisaguado@gmail.com"><img height="22" src="./assets/ic-gmail.svg" alt=""/></a></td>
+<td><code>dhenisaguado@gmail.com</code></td>
+<td align="center"><a href="https://wa.me/51994730022"><img height="24" src="https://cdn.simpleicons.org/whatsapp/25D366" alt=""/></a></td>
+<td><code>+51 994 730 022</code></td>
+</tr>
+</table>

@@ -1,4 +1,4 @@
-<svg viewBox="140 0 1000 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gracias por llegar hasta aquí. Escríbeme si algo de esto te sirve.">
+<svg viewBox="140 0 1000 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gracias por llegar hasta aquí. Escríbeme por donde prefieras.">
   <desc>Pie animado: una señal recorre la línea de izquierda a derecha, como el pulso de un sistema en marcha.</desc>
 
   <defs>
@@ -32,7 +32,7 @@
     </rect>
 
     <text x="640" y="82" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" fill="#C9D1D9">Gracias por llegar hasta aquí.</text>
-    <text x="640" y="110" text-anchor="middle" font-family="Consolas, ui-monospace, monospace" font-size="13" letter-spacing="3" fill="#6E7681">SI ALGO DE ESTO TE SIRVE, ESCR&#205;BEME</text>
+    <text x="640" y="110" text-anchor="middle" font-family="Consolas, ui-monospace, monospace" font-size="13" letter-spacing="3" fill="#6E7681">ESCR&#205;BEME POR DONDE PREFIERAS</text>
 
     <g fill="#58A6FF">
       <circle cx="300" cy="96" r="1.8" opacity="0.26"><animate attributeName="opacity" values="0.26;0.08;0.26" dur="4.6s" repeatCount="indefinite"/></circle>
