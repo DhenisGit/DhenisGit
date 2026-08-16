@@ -98,15 +98,4 @@ ERP industrial. App Android nativa escrita íntegramente en Java con MVVM, usada
 
 </div>
 
-<img src="./assets/footer.svg" width="100%" alt="Gracias por llegar hasta aquí. Escríbeme por donde prefieras."/>
-
-<table align="center">
-<tr>
-<td align="center"><a href="https://www.linkedin.com/in/dhenis-jhoset-aguado-garcia-667b0529b"><img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt=""/></a></td>
-<td><a href="https://www.linkedin.com/in/dhenis-jhoset-aguado-garcia-667b0529b">dhenis-jhoset-aguado-garcia</a></td>
-<td align="center"><a href="mailto:dhenisaguado@gmail.com"><img height="22" src="./assets/ic-gmail.svg" alt=""/></a></td>
-<td><code>dhenisaguado@gmail.com</code></td>
-<td align="center"><a href="https://wa.me/51994730022"><img height="24" src="https://cdn.simpleicons.org/whatsapp/25D366" alt=""/></a></td>
-<td><code>+51 994 730 022</code></td>
-</tr>
-</table>
+<img src="./assets/footer.svg" width="100%" alt="Gracias por llegar hasta aquí. dhenisaguado@gmail.com · +51 994 730 022 · linkedin.com/in/dhenis-jhoset-aguado-garcia"/>
