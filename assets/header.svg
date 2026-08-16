@@ -1,4 +1,4 @@
-<svg viewBox="140 10 1000 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dhenis Aguado, Full Stack Engineer. Backend, frontend y móvil. Lima, Perú.">
+<svg viewBox="140 10 1000 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dhenis J. Aguado G., Full Stack Engineer. Backend, frontend y móvil. Lima, Perú.">
   <desc>Cabecera con fondo animado: rejilla en movimiento, resplandores que laten y símbolos de código flotando. El retrato, el nombre y el rol son estáticos y legibles desde el primer fotograma.</desc>
 
   <defs>
@@ -83,7 +83,7 @@
     <circle cx="272" cy="140" r="88" fill="none" stroke="#58A6FF" stroke-opacity="0.55" stroke-width="2"/>
 
     <!-- contenido -->
-    <text x="760" y="126" text-anchor="middle" font-family="Segoe UI Semibold, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="66" font-weight="700" fill="#F0F6FC">Dhenis Aguado</text>
+    <text x="760" y="126" text-anchor="middle" font-family="Segoe UI Semibold, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="66" font-weight="700" fill="#F0F6FC">Dhenis J. Aguado G.</text>
 
     <rect x="690" y="152" width="140" height="4" rx="2" fill="url(#rule)"/>
 

@@ -1,0 +1,44 @@
+<svg viewBox="140 0 1000 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="El modelo propone. El código decide. Lima, Perú.">
+  <desc>Pie con el mismo lenguaje visual que la cabecera: rejilla tenue, resplandor que respira y puntos que parpadean lentamente.</desc>
+
+  <defs>
+    <pattern id="fGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#58A6FF" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="fGlow" cx="50%" cy="100%" r="70%">
+      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58A6FF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#9A63FF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="fFrame"><rect x="140" y="0" width="1000" height="150" rx="10"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#fFrame)">
+    <rect x="140" y="0" width="1000" height="150" fill="#0D1117"/>
+    <rect x="140" y="0" width="1000" height="150" fill="url(#fGrid)"/>
+
+    <ellipse cx="640" cy="150" rx="420" ry="120" fill="url(#fGlow)">
+      <animate attributeName="rx" values="420;480;420" dur="12s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <rect x="440" y="0" width="400" height="2" fill="url(#fRule)"/>
+
+    <g fill="#58A6FF">
+      <circle cx="330" cy="46" r="1.8" opacity="0.30"><animate attributeName="opacity" values="0.30;0.10;0.30" dur="4.4s" repeatCount="indefinite"/></circle>
+      <circle cx="452" cy="104" r="1.5" opacity="0.22"/>
+      <circle cx="880" cy="52" r="2.2" opacity="0.28"><animate attributeName="opacity" values="0.28;0.09;0.28" dur="5.7s" repeatCount="indefinite"/></circle>
+      <circle cx="1002" cy="112" r="1.6" opacity="0.20"><animate attributeName="opacity" values="0.20;0.08;0.20" dur="3.9s" repeatCount="indefinite"/></circle>
+    </g>
+    <g fill="#9A63FF">
+      <circle cx="742" cy="34" r="1.6" opacity="0.24"><animate attributeName="opacity" values="0.24;0.09;0.24" dur="6.2s" repeatCount="indefinite"/></circle>
+      <circle cx="560" cy="120" r="2" opacity="0.20"/>
+    </g>
+
+    <text x="640" y="72" text-anchor="middle" font-family="Segoe UI Semibold, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="24" font-weight="600" fill="#E8EEF5">El modelo propone.<tspan fill="#58A6FF" dx="10">El código decide.</tspan></text>
+    <text x="640" y="108" text-anchor="middle" font-family="Consolas, ui-monospace, monospace" font-size="13" letter-spacing="4" fill="#6E7681">LIMA, PER&#218;&#160;&#160;·&#160;&#160;DISPONIBLE PARA CONVERSAR</text>
+  </g>
+</svg>
