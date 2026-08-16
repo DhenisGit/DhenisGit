@@ -7,9 +7,9 @@
 <p>
   <a href="https://www.linkedin.com/in/dhenis-jhoset-aguado-garcia-667b0529b" title="LinkedIn"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:dhenisaguado@gmail.com" title="dhenisaguado@gmail.com"><img height="35" src="./assets/ic-gmail.svg" alt="Correo"/></a>
+  <a href="mailto:dhenisaguado@gmail.com" title="dhenisaguado@gmail.com"><img height="40" src="./assets/ic-gmail.svg" alt="Correo"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/51994730022" title="+51 994 730 022"><img height="38" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp"/></a>
+  <a href="https://wa.me/51994730022" title="+51 994 730 022"><img height="36" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp"/></a>
 </p>
 
 </div>
@@ -28,124 +28,40 @@ Me mantengo al día con la IA usándola: modelos en local y, sobre todo, agentes
 
 ## <img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" align="center"/> &nbsp;Tecnologías
 
-<table align="center" width="100%">
-<tr>
-<td align="center" valign="top" width="25%">
+<div align="center">
 
-<b>BACKEND</b>
+<sub><b>BACKEND</b></sub><br/>
+<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java 21"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel"/>
 
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java 21"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel"/>
+<sub><b>FRONTEND</b></sub><br/>
+<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux Toolkit"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite"/>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/FFFFFF"/><img height="30" src="https://cdn.simpleicons.org/shadcnui/000000" alt="shadcn/ui"/></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/heroui/FFFFFF"/><img height="30" src="https://cdn.simpleicons.org/heroui/000000" alt="HeroUI"/></picture>&nbsp;<img height="30" src="https://cdn.simpleicons.org/primeng/DD0031" alt="PrimeNG y PrimeReact"/>
 
-</td>
-<td align="center" valign="top" width="25%">
+<sub><b>MOBILE</b></sub><br/>
+<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" alt="Ktor"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase"/>
 
-<b>FRONTEND</b>
+<sub><b>DEPLOY</b></sub><br/>
+<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/>&nbsp;<img height="30" src="https://cdn.simpleicons.org/hostinger/673DE6" alt="Hostinger"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF"/><img height="30" src="https://cdn.simpleicons.org/github/181717" alt="GitHub"/></picture>
 
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-<br/>
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux Toolkit"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite"/>
-<br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/FFFFFF"/><img height="30" src="https://cdn.simpleicons.org/shadcnui/000000" alt="shadcn/ui"/></picture>&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/heroui/FFFFFF"/><img height="30" src="https://cdn.simpleicons.org/heroui/000000" alt="HeroUI"/></picture>&nbsp;
-<img height="30" src="https://cdn.simpleicons.org/primeng/DD0031" alt="PrimeNG y PrimeReact"/>
+<sub><b>DATOS</b></sub><br/>
+<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flyway/FFFFFF"/><img height="30" src="https://cdn.simpleicons.org/flyway/181717" alt="Flyway"/></picture>
 
-</td>
-<td align="center" valign="top" width="25%">
+<sub><b>INTEGRACIONES</b></sub><br/>
+<img height="30" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp Cloud API"/>&nbsp;<img height="30" src="https://cdn.simpleicons.org/meta/0866FF" alt="Meta Graph API"/>&nbsp;<img height="30" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram"/>&nbsp;<img height="30" src="https://cdn.simpleicons.org/messenger/0084FF" alt="Messenger"/>
 
-<b>MOBILE</b>
+<sub><b>IA</b></sub><br/>
+<img height="30" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/gemini-color.svg" alt="Gemini API"/>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ollama/FFFFFF"/><img height="30" src="https://cdn.simpleicons.org/ollama/000000" alt="llama.cpp"/></picture>
 
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" alt="Ktor"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase"/>
+<sub><b>HERRAMIENTAS</b></sub><br/>
+<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="Insomnia"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="Gradle"/>&nbsp;<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code"/>
 
-</td>
-<td align="center" valign="top" width="25%">
+<sub><b>DESARROLLO CON IA</b></sub><br/>
+<img height="30" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/claude-color.svg" alt="Claude Code"/>&nbsp;&nbsp;<img height="30" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/gemini-color.svg" alt="Gemini CLI"/>&nbsp;&nbsp;<img height="30" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/antigravity-color.svg" alt="Antigravity"/>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/opencode/FFFFFF"/><img height="30" src="https://cdn.simpleicons.org/opencode/181717" alt="OpenCode"/></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/codex-dark.svg"/><img height="30" src="./assets/codex-light.svg" alt="Codex"/></picture>
 
-<b>DEPLOY</b>
-
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/>&nbsp;
-<img height="30" src="https://cdn.simpleicons.org/hostinger/673DE6" alt="Hostinger"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/>&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF"/><img height="30" src="https://cdn.simpleicons.org/github/181717" alt="GitHub"/></picture>
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
-
-<b>DATOS</b>
-
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/>&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flyway/FFFFFF"/><img height="30" src="https://cdn.simpleicons.org/flyway/181717" alt="Flyway"/></picture>
-
-</td>
-<td align="center" valign="top">
-
-<b>INTEGRACIONES</b>
-
-<img height="32" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp Cloud API"/>&nbsp;
-<img height="32" src="https://cdn.simpleicons.org/meta/0866FF" alt="Meta Graph API"/>&nbsp;
-<img height="32" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram"/>&nbsp;
-<img height="32" src="https://cdn.simpleicons.org/messenger/0084FF" alt="Messenger"/>
-
-</td>
-<td align="center" valign="top">
-
-<b>IA</b>
-
-<img height="32" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/gemini-color.svg" alt="Gemini API"/>&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ollama/FFFFFF"/><img height="32" src="https://cdn.simpleicons.org/ollama/000000" alt="llama.cpp"/></picture>
-
-</td>
-<td align="center" valign="top">
-
-<b>HERRAMIENTAS</b>
-
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="Insomnia"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="Gradle"/>&nbsp;
-<img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" colspan="4">
-
-<b>DESARROLLO CON IA</b>
-
-<img height="30" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/claude-color.svg" alt="Claude Code"/>&nbsp;&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/gemini-color.svg" alt="Gemini CLI"/>&nbsp;&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/antigravity-color.svg" alt="Antigravity"/>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/opencode/FFFFFF"/><img height="30" src="https://cdn.simpleicons.org/opencode/181717" alt="OpenCode"/></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/codex-dark.svg"/><img height="30" src="./assets/codex-light.svg" alt="Codex"/></picture>
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-<img src="https://img.shields.io/badge/Retrofit_·_Hilt-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Retrofit y Hilt"/>
-<img src="https://img.shields.io/badge/APIs_REST-1F6FEB?style=flat-square" alt="APIs REST"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-<img src="https://img.shields.io/badge/Meta_Lead_Ads-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Lead Ads"/>
-<img src="https://img.shields.io/badge/Arquitectura_hexagonal-6E7681?style=flat-square" alt="Arquitectura hexagonal"/>
-<img src="https://img.shields.io/badge/Domain--Driven_Design-6E7681?style=flat-square" alt="Domain-Driven Design"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-6E7681?style=flat-square" alt="Clean Architecture"/>
-<img src="https://img.shields.io/badge/Scrum_·_Kanban-6E7681?style=flat-square" alt="Scrum y Kanban"/>
+<img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/><img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/><img src="https://img.shields.io/badge/Retrofit_·_Hilt-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Retrofit y Hilt"/><img src="https://img.shields.io/badge/APIs_REST-1F6FEB?style=flat-square" alt="APIs REST"/><img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/><img src="https://img.shields.io/badge/Meta_Lead_Ads-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Lead Ads"/><img src="https://img.shields.io/badge/Arquitectura_hexagonal-6E7681?style=flat-square" alt="Arquitectura hexagonal"/><img src="https://img.shields.io/badge/Domain--Driven_Design-6E7681?style=flat-square" alt="Domain-Driven Design"/><img src="https://img.shields.io/badge/Clean_Architecture-6E7681?style=flat-square" alt="Clean Architecture"/><img src="https://img.shields.io/badge/Scrum_·_Kanban-6E7681?style=flat-square" alt="Scrum y Kanban"/>
 
 </div>
 
@@ -161,17 +77,7 @@ Me mantengo al día con la IA usándola: modelos en local y, sobre todo, agentes
 
 ERP + CRM omnicanal con IA para una cadena de clínicas. WhatsApp, Messenger, Instagram y Lead Ads en un solo webhook, con firma HMAC e idempotencia en cuatro niveles. La IA va contenida: el código valida cada precio, cada hora y cada reserva contra la base de datos antes de responder. También marketing con atribución de anuncios y costeo de la inversión, agenda, pagos y catálogo.
 
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java 21"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot 3.5"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular 21"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"/>&nbsp;
-<img height="30" src="https://cdn.simpleicons.org/primeng/DD0031" alt="PrimeNG"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS 4"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flyway/FFFFFF"/><img height="30" src="https://cdn.simpleicons.org/flyway/181717" alt="Flyway"/></picture>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/gemini-color.svg" alt="Gemini"/>&nbsp;
-<img height="30" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp Cloud API"/>&nbsp;
-<img height="30" src="https://cdn.simpleicons.org/meta/0866FF" alt="Meta Graph API"/>
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java 21"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot 3.5"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular 21"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"/>&nbsp;<img height="26" src="https://cdn.simpleicons.org/primeng/DD0031" alt="PrimeNG"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS 4"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flyway/FFFFFF"/><img height="26" src="https://cdn.simpleicons.org/flyway/181717" alt="Flyway"/></picture>&nbsp;<img height="26" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.91.0/icons/gemini-color.svg" alt="Gemini"/>&nbsp;<img height="26" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp Cloud API"/>&nbsp;<img height="26" src="https://cdn.simpleicons.org/meta/0866FF" alt="Meta Graph API"/>
 
 </td>
 <td width="33%" valign="top">
@@ -182,16 +88,7 @@ ERP + CRM omnicanal con IA para una cadena de clínicas. WhatsApp, Messenger, In
 
 Plataforma B2B que conecta empresas industriales con profesionales técnicos. Construí la aplicación móvil desde cero con Kotlin Multiplatform, y desarrollé módulos del backend y del panel web.
 
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin Multiplatform"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React 18"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite 6"/>&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/heroui/FFFFFF"/><img height="30" src="https://cdn.simpleicons.org/heroui/000000" alt="HeroUI"/></picture>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind 4"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel 12"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/>
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin Multiplatform"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React 18"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite 6"/>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/heroui/FFFFFF"/><img height="26" src="https://cdn.simpleicons.org/heroui/000000" alt="HeroUI"/></picture>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind 4"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel 12"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/>
 
 </td>
 <td width="33%" valign="top">
@@ -202,13 +99,7 @@ Plataforma B2B que conecta empresas industriales con profesionales técnicos. Co
 
 ERP industrial. App Android nativa escrita íntegramente en Java con MVVM, usada por operarios de planta para seguir la producción desde el teléfono.
 
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React 18"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux Toolkit"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel 8"/>&nbsp;
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/>
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React 18"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux Toolkit"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel 8"/>&nbsp;<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/>
 
 </td>
 </tr>
